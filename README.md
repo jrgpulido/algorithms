@@ -1,0 +1,3 @@
+# algorithms
+
+For teaching purposes
